@@ -1,2 +1,5 @@
 # Python-Portscanner
-A simple Portscanner written in Python
+
+Use the Portscanner only on Linux:
+
+    sudo python Portscanner.py -H <host> -p <port>
